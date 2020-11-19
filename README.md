@@ -1,5 +1,3 @@
 ## Welcome to "Hello World" with GitHub Actions
 
-This course will walk you through writing your first action and using it with a workflow file. 
-
-**Ready to get started? Navigate to the first issue.**
+This is a very simple example of running a GitHub Action within a container to output a hello message.
